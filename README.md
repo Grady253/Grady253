@@ -10,7 +10,4 @@ Skills: HTML / CSS / JS /  jQuery /  React  /  MySql
 - 📫 How to reach me: Grady.andre2@gmail.com 
 - 😄 Pronouns: HE/HIM 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/grady253)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andre-grady-a70237190//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/thegradyway/)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grady253&show_icons=true)  
