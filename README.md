@@ -6,7 +6,7 @@
 
 Im a software engineer, who lives in Seattle, Washington. I really enjoy learning languages and building complex applications with simple UI design. Aside from coding, I enjoy fishing, cooking, playing video games and attending comedy shows.
 
-### Skills
+# Skills:
 HTML / CSS / JS /  jQuery /  React  /  MySql  
 
 - 🔭 I’m currently working on a real estate app  
