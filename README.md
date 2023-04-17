@@ -9,7 +9,7 @@ Im a software engineer, who lives in Seattle, Washington. I really enjoy learnin
 # Skills:
 HTML / CSS / JS /  jQuery /  React  /  MySql  
 
-- 🔭 I’m currently working on a real estate app  
+- 🔭 I’m currently working on a real agent estate app  
 - 📫 How to reach me: Grady.andre2@gmail.com 
 - 😄 Pronouns: HE/HIM 
 
